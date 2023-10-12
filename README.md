@@ -48,12 +48,6 @@ After training the model on the MNIST dataset, we achieved an accuracy of 98.11%
 In this project, we demonstrated how to use deep learning techniques to detect handwriting in images using Keras and TensorFlow. By training a neural network model on the MNIST dataset, we were able to achieve a high level of accuracy in detecting handwritten digits. This technology has many practical applications, such as recognizing handwritten text in documents or verifying signatures on legal documents.
 <hr>
 
-## Contributor : [Ankit Nainwal](https://github.com/nano-bot01)
+## Contributor : [Priyanshu Mittal](https://github.com/priyanshmittal)
 
-
-### Other Models 
- * [Fake News Prediction System](https://github.com/nano-bot01/Fake-News-Prediction-System-)
- * [Heart Disease Prediction System based on Logistic Regression](https://github.com/nano-bot01/Heart-Disease-Prediction-System-using-Logistic-Regression)
-
-## Please ⭐⭐⭐⭐⭐ 
 
